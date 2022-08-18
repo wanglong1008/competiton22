@@ -105,5 +105,5 @@ poses = np.concatenate(poses, axis=0)
 np.savetxt("result/pose5_tes.txt", poses, delimiter=' ', fmt='%1.8e')
 
 # evo_traj kitti result/pose1_test.txt --ref gt/pose1.txt -p --plot_mod=xy -as
-** Please tell me who you are. Run git config --global user.email "925367077@qq.com" git config --global user.name "Your Name"
+** Please tell me who you are. Run git config --global user.email "925367077@qq.com" git config --global user.name "wanglong1008"
 to set your account's default identity. Omit --global to set the identity only in this repository. unable to auto-detect email address (got '92536@wl_y9000p.(none)')
